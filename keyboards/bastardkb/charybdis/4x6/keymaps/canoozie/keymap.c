@@ -75,7 +75,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   // ╭──────────────────────────────────────────────────────────────────────────╮ ╭─────────────────────────────────────────────────────────╮
        KC_TILD, KC_EXLM,       KC_AT,        KC_HASH,  KC_DLR,       KC_PERC,       KC_CIRC,   KC_MPRV, KC_MNXT, KC_MPLY, KC_MSTP, KC_HOME,
   // ├──────────────────────────────────────────────────────────────────────────┤ ├─────────────────────────────────────────────────────────┤
-       RGB_MOD, KP_PCMM,       KC_PPLS,       KC_GRAVE, XXXXXXX, LSFT(KC_LRBC),     KC_LBRC,   KC_P7,   KC_UP,   KC_BSPC, KC_INS, KC_PGUP,
+       RGB_MOD, KC_PCMM,       KC_PPLS,       KC_GRAVE, XXXXXXX, LSFT(KC_LBRC),     KC_LBRC,   KC_P7,   KC_UP,   KC_BSPC, KC_INS, KC_PGUP,
   // ├──────────────────────────────────────────────────────────────────────────┤ ├─────────────────────────────────────────────────────────┤
        RGB_TOG, LSFT(KC_MINS), KC_MINS, LSFT(KC_GRAVE), KC_LSFT,    LSFT(KC_9),    LSFT(KC_0), KC_LEFT, KC_DOWN, KC_RGHT, KC_ENT, KC_PGDN,
   // ├──────────────────────────────────────────────────────────────────────────┤ ├─────────────────────────────────────────────────────────┤
